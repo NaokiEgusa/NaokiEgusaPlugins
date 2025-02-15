@@ -20,9 +20,9 @@ DUPLICATES = {
 TRIMMED_KEYS = [
     'Author',
     'Name',
-    'Description',
     'InternalName',
     'AssemblyVersion',
+    'Description',
     'RepoUrl',
     'ApplicableVersion',
     'Tags',
