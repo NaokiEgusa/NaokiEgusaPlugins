@@ -82,7 +82,10 @@ def write_master(master):
         json.dump(master, f, indent=4)
 
 def trim_manifest(plugin):
-    return {k: plugin[k] for k in TRIMMED_KEYS if k in plugin}
+    print(f"Before trimming: {plugin}")  
+    trimmed = {k: plugin[k] for k in TRIMMED_KEYS if k in plugin}
+    print(f"After trimming: {trimmed}")  
+    return trimmed
 
 def last_updated(master):
     for plugin in master:
