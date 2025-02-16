@@ -2,7 +2,7 @@
   "Author": "Naoki Egusa",
   "Name": "Laplace",
   "InternalName": "Laplace",
-  "AssemblyVersion": "0.0.0.4",
+  "AssemblyVersion": "0.0.0.7",
   "Description": "",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 11,
@@ -10,7 +10,6 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "IconUrl": "",
   "Punchline": "",
-  "AcceptsFeedback": true
+  "AcceptsFeedback": false
 }
