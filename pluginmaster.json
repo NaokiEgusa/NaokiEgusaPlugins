@@ -13,6 +13,23 @@
         "DownloadLinkTesting": "https://github.com/NaokiEgusa/NaokiEgusaPlugins/raw/main/plugins/Laplace/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NaokiEgusa/NaokiEgusaPlugins/raw/main/plugins/Laplace/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1742780284"
+        "LastUpdated": "1742847667"
+    },
+    {
+        "Author": "NightmareXIV",
+        "Name": "TextAdvance-fork",
+        "InternalName": "TextAdvance",
+        "AssemblyVersion": "3.2.4.3",
+        "Description": "",
+        "RepoUrl": "https://github.com/NightmareXIV/TextAdvance",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 11,
+        "DownloadLinkInstall": "https://github.com/NaokiEgusa/NaokiEgusaPlugins/raw/main/plugins/TextAdvance/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/NaokiEgusa/NaokiEgusaPlugins/raw/main/plugins/TextAdvance/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/NaokiEgusa/NaokiEgusaPlugins/raw/main/plugins/TextAdvance/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1742847667"
     }
 ]
