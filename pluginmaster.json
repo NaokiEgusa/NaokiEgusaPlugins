@@ -3,17 +3,17 @@
         "Author": "Naoki Egusa",
         "Name": "Laplace",
         "InternalName": "Laplace",
-        "AssemblyVersion": "0.0.3.1",
+        "AssemblyVersion": "0.0.3.2",
         "Description": "",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 11,
+        "DalamudApiLevel": 12,
         "DownloadLinkInstall": "https://github.com/NaokiEgusa/NaokiEgusaPlugins/raw/main/plugins/Laplace/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/NaokiEgusa/NaokiEgusaPlugins/raw/main/plugins/Laplace/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NaokiEgusa/NaokiEgusaPlugins/raw/main/plugins/Laplace/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1743041374"
+        "LastUpdated": "1743045870"
     },
     {
         "Author": "NightmareXIV",
@@ -30,6 +30,6 @@
         "DownloadLinkTesting": "https://github.com/NaokiEgusa/NaokiEgusaPlugins/raw/main/plugins/TextAdvance/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NaokiEgusa/NaokiEgusaPlugins/raw/main/plugins/TextAdvance/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1743041374"
+        "LastUpdated": "1743045870"
     }
 ]
