@@ -1,0 +1,15 @@
+{
+  "Author": "Naoki Egusa",
+  "Name": "Laplace",
+  "InternalName": "Laplace",
+  "AssemblyVersion": "0.0.3.70",
+  "Description": "",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "",
+  "AcceptsFeedback": false
+}
