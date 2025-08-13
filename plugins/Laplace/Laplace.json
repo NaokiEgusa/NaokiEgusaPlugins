@@ -2,11 +2,7 @@
   "Author": "Naoki Egusa",
   "Name": "Laplace",
   "InternalName": "Laplace",
-<<<<<<< HEAD
   "AssemblyVersion": "0.0.4.18",
-=======
-  "AssemblyVersion": "0.0.4.17",
->>>>>>> 8dbc2b8b31d9e16ec73f506eee2693600cab18dc
   "Description": "",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 13,
