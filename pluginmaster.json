@@ -3,7 +3,7 @@
         "Author": "Naoki Egusa",
         "Name": "Laplace",
         "InternalName": "Laplace",
-        "AssemblyVersion": "0.0.4.38",
+        "AssemblyVersion": "0.0.4.39",
         "Description": "",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 13,
@@ -13,6 +13,6 @@
         "DownloadLinkTesting": "https://github.com/NaokiEgusa/NaokiEgusaPlugins/raw/main/plugins/Laplace/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NaokiEgusa/NaokiEgusaPlugins/raw/main/plugins/Laplace/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1763639672"
+        "LastUpdated": "1763871056"
     }
 ]
