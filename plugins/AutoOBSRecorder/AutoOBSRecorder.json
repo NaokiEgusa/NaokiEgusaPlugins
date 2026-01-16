@@ -1,0 +1,15 @@
+{
+  "Author": "Naoki Egusa",
+  "Name": "AutoOBSRecorder",
+  "InternalName": "AutoOBSRecorder",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 14,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "",
+  "AcceptsFeedback": true
+}
