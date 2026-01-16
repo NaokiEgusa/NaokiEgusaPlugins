@@ -13,6 +13,22 @@
         "DownloadLinkTesting": "https://github.com/NaokiEgusa/NaokiEgusaPlugins/raw/main/plugins/Laplace/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NaokiEgusa/NaokiEgusaPlugins/raw/main/plugins/Laplace/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1766558673"
+        "LastUpdated": "1768592905"
+    },
+    {
+        "Author": "Naoki Egusa",
+        "Name": "AutoOBSRecorder",
+        "InternalName": "AutoOBSRecorder",
+        "AssemblyVersion": "0.0.0.1",
+        "Description": "",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 14,
+        "DownloadLinkInstall": "https://github.com/NaokiEgusa/NaokiEgusaPlugins/raw/main/plugins/AutoOBSRecorder/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/NaokiEgusa/NaokiEgusaPlugins/raw/main/plugins/AutoOBSRecorder/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/NaokiEgusa/NaokiEgusaPlugins/raw/main/plugins/AutoOBSRecorder/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1768592905"
     }
 ]
