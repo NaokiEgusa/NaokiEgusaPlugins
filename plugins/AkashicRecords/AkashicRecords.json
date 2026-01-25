@@ -1,0 +1,15 @@
+{
+  "Author": "Naoki Egusa",
+  "Name": "Akashic Records",
+  "InternalName": "AkashicRecords",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 14,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "",
+  "AcceptsFeedback": true
+}
