@@ -13,13 +13,13 @@
         "DownloadLinkTesting": "https://github.com/NaokiEgusa/NaokiEgusaPlugins/raw/main/plugins/Laplace/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NaokiEgusa/NaokiEgusaPlugins/raw/main/plugins/Laplace/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1769430838"
+        "LastUpdated": "1769475200"
     },
     {
         "Author": "Naoki Egusa",
         "Name": "Akashic Records",
         "InternalName": "AkashicRecords",
-        "AssemblyVersion": "0.0.0.3",
+        "AssemblyVersion": "0.0.0.4",
         "Description": "",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 14,
@@ -29,7 +29,7 @@
         "DownloadLinkTesting": "https://github.com/NaokiEgusa/NaokiEgusaPlugins/raw/main/plugins/AkashicRecords/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NaokiEgusa/NaokiEgusaPlugins/raw/main/plugins/AkashicRecords/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1769430838"
+        "LastUpdated": "1769475200"
     },
     {
         "Author": "Naoki Egusa",
@@ -45,6 +45,6 @@
         "DownloadLinkTesting": "https://github.com/NaokiEgusa/NaokiEgusaPlugins/raw/main/plugins/AutoOBSRecorder/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NaokiEgusa/NaokiEgusaPlugins/raw/main/plugins/AutoOBSRecorder/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1769430838"
+        "LastUpdated": "1769475200"
     }
 ]
